@@ -1,0 +1,9 @@
+
+body{
+    margin:0 auto;
+}
+#logo{
+    float:left;
+    margin-left:5%;
+    margin-top:2%;
+}
